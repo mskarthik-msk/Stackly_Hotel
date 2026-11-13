@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     babel({ presets: [reactCompilerPreset()] })
   ],
-  base:'/stackly_Hotel/'
+  base: '/Stackly_Hotel/'
 })
