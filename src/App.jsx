@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import icon from './assets/brown_stackly_icon.png';
-import logo from './assets/brown_stackly.png';
+import logo from './assets/brown_Stackly.png';
 
 const SUITES = [
   {
