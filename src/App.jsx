@@ -78,8 +78,8 @@ export default function App() {
           onClick={() => navigateTo('home')}
           aria-label="Stackly Home"
         >
-          <img src={icon} className='iconcls'/>
-          <span className="brand-name">Stackly</span>
+          <img src={logo} className='logo1'/>
+          {/* <span className="brand-name">Stackly</span> */}
           <span className="brand-sub">Grand Hotel & Resort</span>
         </button>
 

@@ -5,7 +5,7 @@
   --text-taupe: #6c6861;
   --accent-bronze: #9c7a4c;
   --accent-bronze-dark: #7d6038;
-  --accent-espresso: #2c2620;
+  --accent-espresso: #604c37;
   --border-sand: #e3dcd0;
   --white: #ffffff;
   --serif: 'Cormorant Garamond', Georgia, serif;
@@ -93,7 +93,8 @@ img {
   letter-spacing: 0.32em;
   text-transform: uppercase;
   opacity: 0.8;
-  margin-top: 4px;
+  margin-top: -18px;
+  margin-left: 50px;
 }
 
 .nav-links {
@@ -799,6 +800,9 @@ img {
 }
 
  .logo{
-    width: 300px;
-    transform: rotate3d(white 1px 1px);
+    width: 250px;
+  }
+  .logo1{
+    width: 200px;
+    filter: drop-shadow(2px 0px 4px #f7f2f3);
   }
